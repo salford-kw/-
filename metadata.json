@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Connector",
+  "description": "Explains and demonstrates how to connect your app to GitHub, either via OAuth integration or by exporting your code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
